@@ -97,6 +97,17 @@ Or build it from source, see the [Wiki](https://github.com/0xd4d/dnSpy/wiki/Buil
 
 See the [Wiki](https://github.com/0xd4d/dnSpy/wiki) for build instructions and other documentation.
 
+# API Documentation
+
+Comprehensive API documentation for extension developers:
+
+- **[API Documentation](docs/API_DOCUMENTATION.md)** - Complete guide to all public APIs including extension development, menus, toolbars, settings, and UI components
+- **[Debugger API](docs/DEBUGGER_API.md)** - Detailed reference for the debugger API including breakpoints, call stacks, expression evaluation, and step debugging
+- **[.NET Debugger API](docs/DOTNET_DEBUGGER_API.md)** - .NET-specific debugging features including type inspection, metadata access, and decompiler integration
+- **[Quick Reference](docs/QUICK_REFERENCE.md)** - Concise reference with code snippets for common extension development tasks
+
+See also the example extensions in the [`Extensions/Examples/`](Extensions/Examples/) directory.
+
 # License
 
 dnSpy is licensed under [GPLv3](dnSpy/dnSpy/LicenseInfo/GPLv3.txt).
